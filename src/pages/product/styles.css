@@ -1,0 +1,37 @@
+.product-info {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    background-color: #FFF;
+    border-radius: 5px;
+    border: 1px solid #DDD;
+}
+
+.product-info h1 {
+    font-size: 32px;
+}
+
+.product-info p {
+    color: #666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.product-info p a {
+    color: #069;
+    text-decoration: none;
+}
+
+.product-info .link-voltar {
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #40ad48;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 10px;
+    position: absolute;
+    text-decoration: none;
+}
